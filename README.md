@@ -1,43 +1,45 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+<br />
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :microscope: Cyber security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+**About me**
 
----
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-<!--START_SECTION:blog-posts-->
--   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
--   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
--   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
--   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
--   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
-<!--END_SECTION:blog-posts-->
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
----
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<!--START_SECTION:waka-->
 
-```txt
-Markdown          17 hrs 55 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.52 %
-Python            9 hrs 57 mins   🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.27 %
-Rust              8 hrs 31 mins   🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.36 %
-Go                2 hrs 53 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.87 %
-Shell             1 hrs 52 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.81 %
-```
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<!--END_SECTION:waka-->
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
