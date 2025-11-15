@@ -21,25 +21,31 @@ I enjoy solving problems, working with APIs, and connecting software with hardwa
 ### 🔹 Unique Access – Smart University Attendance System  
 IoT-based RFID attendance system using **ESP32 + Django + PostgreSQL**.  
 **Features:** API communication, real-time logging, admin dashboards.  
-🔗 *Repo:* [(add link)](https://github.com/nmq2111/Senior-Project.git)
+🔗 *Repo:* [(Unique Access)](https://github.com/nmq2111/Senior-Project.git)
 
 ---
 
 ### 🔹 HearMe – Sign Language Learning Platform  
 Full-stack platform using **Django + JS + OpenCV** to support communication for deaf users.  
-🔗 *Repo:* [(add link)](https://github.com/Maldoseri23/Capstone-Project.git)
+🔗 *Repo:* [(HearMe)](https://github.com/Maldoseri23/Capstone-Project.git)
 
 ---
 
 ### 🔹 Doctori – Healthcare Appointment System  
 Full-stack system using **React + Node.js + MongoDB + JWT**.  
-🔗 *Repo:* [(add link)](https://github.com/iidgg/doctori-fe.git)
+🔗 *Repo:* [(Doctori)](https://github.com/iidgg/doctori-fe.git)
 
 ---
 
 ### 🔹 UNO Game (Web)  
 UNO card game fully built with **HTML, CSS, JavaScript** with DOM game logic.  
-🔗 *Repo:* [(add link)](https://github.com/nmq2111/UNO.git)
+🔗 *Repo:* [(UNO game)](https://github.com/nmq2111/UNO.git)
+
+---
+
+### 🔹 UNO Game (Web)  
+UNO card game fully built with **HTML, CSS, JavaScript** with DOM game logic.  
+🔗 *Repo:* [(UNO game)](https://github.com/nmq2111/UNO.git)
 
 ---
 
