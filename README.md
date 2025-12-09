@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm Noora!" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gh-readme-header.png" />
-</p>
 
 <br />
 
